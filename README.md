@@ -4,7 +4,7 @@ I'm a software engineer based in Würzburg, Germany working for Red Hat.
 
 ### Some background
 
-- Working professionally as software engineer since 2000
+- Working professionally as a software engineer since 2000
 - Developing with Java since JDK 1.1
 - Member of the [@wildfly](https://github.com/wildfly) team
 - Component lead of [@hal](https://github.com/hal) (WildFly admin console)
