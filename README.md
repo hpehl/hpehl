@@ -10,7 +10,19 @@ I'm a software engineer based in Würzburg, Germany working for Red Hat.
 - Component lead of [@hal](https://github.com/hal) (WildFly admin console)
 - Keenly interested in Kotlin, Kotlin/JS and good UX
 
-![Harald's github stats](https://github-readme-stats.vercel.app/api?username=hpehl&theme=dracula&show_icons=true&count_private=true)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=hpehl&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=hpehl&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hpehl&show_icons=true" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpehl&layout=compact&langs_count=8)
 
 <!--
 **hpehl/hpehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
