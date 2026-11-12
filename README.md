@@ -8,7 +8,6 @@ I'm a software engineer based in Würzburg, Germany working for Red Hat.
 - Developing with Java since JDK 1.1
 - Member of the [@wildfly](https://github.com/wildfly) team
 - Component lead of [@hal](https://github.com/hal) (WildFly admin console)
-- Keenly interested in Kotlin, Kotlin/JS and good UX
 
 <picture>
   <source 
@@ -21,8 +20,6 @@ I'm a software engineer based in Würzburg, Germany working for Red Hat.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hpehl&show_icons=true" />
 </picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpehl&layout=compact&langs_count=8)
 
 <!--
 **hpehl/hpehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
